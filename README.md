@@ -12,8 +12,8 @@ Thanks to all contributors, you're awesome and this wouldn't be possible without
 ---
 
 ## Table of Contents
-- [General](#general)
-- [Blogs and tips](#blogs)
+- [General](#general-tools)
+- [Blogs and tips](#language-learning-tips)
 - [Top 14 languages](#top)
   - [English](#english)
   - [Spanish](#spanish)
