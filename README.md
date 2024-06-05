@@ -1,11 +1,11 @@
-# Awesome Language Learning Resources
+# Awesome Language Learning
 
 A comprehensive, community driven list of awesome websites, apps, resources and tools for language learning.
-"Awesome Language Learning" is your definitive guide to exploring the world of languages, catering to learners at all stages, from absolute beginners to seasoned liguists.
+"Awesome Language Learning" is your definitive guide to exploring the world of languages, catering to learners at all stages, from absolute beginners to seasoned linguists. Divided by levels, skills, and languages, this list will help you find the best resources for your learning journey.
 
 ---
 
-Sharing, suggestions and contributions are always welcome! Please take a look at the [[contribution guidelines and quality standard]] first.
+Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. If you see a resource or tool that is not listed here, please open a new pull request.
 
 Thanks to all contributors, you're awesome and this wouldn't be possible without you!
 
@@ -14,7 +14,8 @@ Thanks to all contributors, you're awesome and this wouldn't be possible without
 ## Table of Contents
 - [General](#general-tools)
 - [Blogs and tips](#language-learning-tips)
-- [Top 14 languages](#top)
+- [Concepts](#concepts)
+- Top 14 languages
   - [English](#english)
   - [Spanish](#spanish)
   - [French](#french)
@@ -35,8 +36,8 @@ Thanks to all contributors, you're awesome and this wouldn't be possible without
 ## General Tools
 
 - [Italki](https://www.italki.com/) - Find language tutors and native speaker partners.
-- [Memrise](https://www.memrise.com/) - Language learning platform with mnemonics and spaced repetition.
 - [Busuu](https://www.busuu.com/) - Language learning platform with 14 languages.
+- [Memrise](https://www.memrise.com/) - Language learning platform with mnemonics and spaced repetition.
 - [LingQ](https://www.lingq.com/) - Platform for learning through immersion.
 - [Duolingo](https://www.duolingo.com/) - The most popular platform for language learning. With this platform you can start for free learning a new language in an engaging way.
 
@@ -45,11 +46,23 @@ Thanks to all contributors, you're awesome and this wouldn't be possible without
 
 ## Language Learning Tips
 
+- [Steve Kaufmann](https://www.thelinguist.com/) - A person who speaks more than 20 languages helps you learn on your own. Also, he has a platform for languages LingQ.
 - [The Polyglot Dream](http://www.thepolyglotdream.com/) - Blog on language learning strategies.
 - [FluentU Blog](https://www.fluentu.com/blog/) - Tips and hacks for learning languages.
 - [Luca Lampariello](https://www.lucalampariello.com/) - A blog and book on how to learn languages from a polyglot and mentor.
-- [Steve Kaufmann](https://www.thelinguist.com/) - A person who speaks more than 20 languages helps you learn on your own. Also, he has a platform for languages LingQ
+- [Fluent in 3 Months](https://www.fluentin3months.com/) - Blog by Benny Lewis, a polyglot who shares his language learning experiences.
 
+---
+
+## Concepts
+
+- [Language Acquisition](https://en.wikipedia.org/wiki/Language_acquisition) - The process by which humans acquire the capacity to perceive and comprehend language, as well as to produce and use words and sentences to communicate. We recommend the talk from [Stephen Krashen on Language Acquisition](https://www.youtube.com/watch?v=NiTsduRreug).
+- [Spaced Repetition](https://en.wikipedia.org/wiki/Spaced_repetition) - A learning technique that incorporates increasing intervals of time between subsequent review of previously learned material.
+- [Immersion](https://en.wikipedia.org/wiki/Language_immersion) - A method of teaching a second language in which the learners' second language is the medium of instruction.
+- [Language Exchange](https://en.wikipedia.org/wiki/Language_exchange) - A method of practicing a second language with native speakers of that language.
+- [Mnemonics](https://en.wikipedia.org/wiki/Mnemonic) - Memory aids that help in the retention of information.
+
+---
 
 ## English
 
@@ -116,7 +129,8 @@ Thanks to all contributors, you're awesome and this wouldn't be possible without
 ### Practice & Immersion
 
 - [Italki](https://www.italki.com/) - Find English tutors or native speakers for language exchange.
-- [HelloTalk](https://www.hellotalk.com/) - Practice English with native speakers via chat.
 - [Tandem](https://www.tandem.net/) - Find people from all over the world, make friends and practice your languages for free.
+- [HelloTalk](https://www.hellotalk.com/) - Practice English with native speakers via chat.
 
 ---
+
