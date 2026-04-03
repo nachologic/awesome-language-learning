@@ -134,3 +134,6 @@ Thanks to all contributors, you're awesome and this wouldn't be possible without
 
 ---
 
+
+### Korean
+- [Tubelang](https://tubelang.com) - Search any Korean expression and hear native speakers use it in real YouTube clips with subtitles.
