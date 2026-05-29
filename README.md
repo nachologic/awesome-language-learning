@@ -79,6 +79,7 @@ Thanks to all contributors, you're awesome and this wouldn't be possible without
 #### B2-C2 (Upper Intermediate to Advanced)
 - [Cambridge English](https://www.cambridgeenglish.org/) - Official vocabulary lists for advanced levels.
 - [Anki](https://apps.ankiweb.net/) - Use spaced repetition with advanced English vocabulary decks.
+- [TubeVocab](https://www.tubevocab.com) - Click any word in YouTube subtitles to auto-create flashcards with translation, pronunciation, and the original sentence. Spaced repetition handles review scheduling, so you grow your vocabulary from the English content you actually watch.
 
 ### Grammar
 
