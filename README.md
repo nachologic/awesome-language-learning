@@ -102,6 +102,7 @@ Thanks to all contributors, you're awesome and this wouldn't be possible without
 
 #### B2-C2 (Upper Intermediate to Advanced)
 - [Rachel's English](https://rachelsenglish.com/) - Advanced pronunciation videos and exercises.
+- [Pronounce](https://pronounce.renlab.ai/) - Pronunciation dictionary for tech and developer jargon (kubectl, nginx, JSON), with IPA, audio, source citations, and a quiz mode.
 
 ### Listening
 
