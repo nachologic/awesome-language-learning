@@ -134,3 +134,16 @@ Thanks to all contributors, you're awesome and this wouldn't be possible without
 
 ---
 
+## Mandarin Chinese
+
+### Vocabulary & Flashcards
+
+- [Mandarin Flashcards (HSK 1–3)](https://ordinarymantrying.com/tools/mandarin-flashcards.html) - 400 HSK 1–3 words with spaced repetition (know / fuzzy / again rating). Anki export included. Free, no login, single HTML file. [Source](https://github.com/daligao/mandarin-flashcards)
+- [HSK 4 Flashcards](https://ordinarymantrying.com/tools/hsk4-flashcards.html) - 150 intermediate Mandarin words (HSK Level 4), same spaced repetition system, Anki export. Pairs with the HSK 1–3 deck.
+
+### Writing
+
+- [Chinese Writing Toolkit](https://ordinarymantrying.com/tools/chinese-writing-toolkit/) - Model essays and sentence banks for 11 types of HSK writing tasks. Covers argumentative, narrative, descriptive and more. Free, no login. [Source](https://github.com/daligao/chinese-writing-toolkit)
+
+---
+
