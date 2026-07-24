@@ -132,5 +132,14 @@ Thanks to all contributors, you're awesome and this wouldn't be possible without
 - [Tandem](https://www.tandem.net/) - Find people from all over the world, make friends and practice your languages for free.
 - [HelloTalk](https://www.hellotalk.com/) - Practice English with native speakers via chat.
 
+
 ---
 
+## Italian
+
+### Apps & Courses
+- [Ti App (Thuis Italiaans)](https://thuisitaliaans.com/app-ti) - A comprehensive Italian learning course from A1 to C2 with CEFR paths, a 4,000+ word dictionary, and graded classic novels, supporting 14 languages: English, Italian, Dutch, French, Spanish, German, Portuguese, Romanian, Arabic, Chinese, Albanian, Bengali, Tigrinya, and Ukrainian.
+
+### Reading & Literature
+- [Thuis Italiaans Books](https://thuisitaliaans.com/books) - Italian classic novels and themed cultural books rewritten and graded for every proficiency level (A1-C2) with integrated dictionaries.
+ 
