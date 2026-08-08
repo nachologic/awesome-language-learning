@@ -38,6 +38,7 @@ Thanks to all contributors, you're awesome and this wouldn't be possible without
 - [Italki](https://www.italki.com/) - Find language tutors and native speaker partners.
 - [Busuu](https://www.busuu.com/) - Language learning platform with 14 languages.
 - [Memrise](https://www.memrise.com/) - Language learning platform with mnemonics and spaced repetition.
+- [Recordar Palabras](https://recordarpalabras.com/) - Personal vocabulary review with short spaced repetitions, available on the web and iPhone in Spanish and English.
 - [LingQ](https://www.lingq.com/) - Platform for learning through immersion.
 - [Duolingo](https://www.duolingo.com/) - The most popular platform for language learning. With this platform you can start for free learning a new language in an engaging way.
 
