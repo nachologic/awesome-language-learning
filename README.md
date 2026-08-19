@@ -40,6 +40,7 @@ Thanks to all contributors, you're awesome and this wouldn't be possible without
 - [Memrise](https://www.memrise.com/) - Language learning platform with mnemonics and spaced repetition.
 - [LingQ](https://www.lingq.com/) - Platform for learning through immersion.
 - [Duolingo](https://www.duolingo.com/) - The most popular platform for language learning. With this platform you can start for free learning a new language in an engaging way.
+- [PolyglotGym](https://polyglotgym.com/) - Free language platform with structured CEFR courses (A1-C2), grammar references, vocabulary trainer, and audio for 100+ languages.
 
 ---
 
