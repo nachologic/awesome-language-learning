@@ -40,6 +40,7 @@ Thanks to all contributors, you're awesome and this wouldn't be possible without
 - [Memrise](https://www.memrise.com/) - Language learning platform with mnemonics and spaced repetition.
 - [LingQ](https://www.lingq.com/) - Platform for learning through immersion.
 - [Duolingo](https://www.duolingo.com/) - The most popular platform for language learning. With this platform you can start for free learning a new language in an engaging way.
+- [BrioVocab](https://briovocab.com/) - French vocabulary practice with illustrated A1-B2 word sets, custom words, spelling and pronunciation exercises, and personalized spaced-repetition scheduling based on review history.
 
 ---
 
