@@ -51,6 +51,7 @@ Thanks to all contributors, you're awesome and this wouldn't be possible without
 - [FluentU Blog](https://www.fluentu.com/blog/) - Tips and hacks for learning languages.
 - [Luca Lampariello](https://www.lucalampariello.com/) - A blog and book on how to learn languages from a polyglot and mentor.
 - [Fluent in 3 Months](https://www.fluentin3months.com/) - Blog by Benny Lewis, a polyglot who shares his language learning experiences.
+- [Mr. Jay's Language Learning Tips](https://mrjkorea.github.io/wait-for-languages/) - Free weekly newsletter with one practical tip for learners of any language, written by an English teacher in Korea.
 
 ---
 
