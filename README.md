@@ -40,6 +40,7 @@ Thanks to all contributors, you're awesome and this wouldn't be possible without
 - [Memrise](https://www.memrise.com/) - Language learning platform with mnemonics and spaced repetition.
 - [LingQ](https://www.lingq.com/) - Platform for learning through immersion.
 - [Duolingo](https://www.duolingo.com/) - The most popular platform for language learning. With this platform you can start for free learning a new language in an engaging way.
+- [PolyChat](https://www.polychatapp.com/) - Full language courses from A1 to C2, with custom lessons and no daily limits on lessons for free users.
 
 ---
 
