@@ -40,6 +40,7 @@ Thanks to all contributors, you're awesome and this wouldn't be possible without
 - [Memrise](https://www.memrise.com/) - Language learning platform with mnemonics and spaced repetition.
 - [LingQ](https://www.lingq.com/) - Platform for learning through immersion.
 - [Duolingo](https://www.duolingo.com/) - The most popular platform for language learning. With this platform you can start for free learning a new language in an engaging way.
+- [Indilingo](https://www.indilingo.ai/) - App for learning 22 Indian languages (Hindi, Tamil, Bengali, Kannada and more) and 17 world languages, with speaking practice and pronunciation feedback. You can learn from English or from another Indian language you already speak.
 
 ---
 
