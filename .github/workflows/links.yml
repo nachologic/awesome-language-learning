@@ -1,0 +1,28 @@
+name: Links
+
+on:
+  pull_request:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          fail: true
+          args: >-
+            --no-progress
+            --retry 3
+            --timeout 20
+            --max-concurrency 8
+            --accept 200,201,202,204,301,302,307,308,403,429
+            './**/*.md'

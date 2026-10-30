@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-label="Awesome Language Learning banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1e1b4b"/>
+      <stop offset="0.55" stop-color="#312e81"/>
+      <stop offset="1" stop-color="#134e4a"/>
+    </linearGradient>
+    <radialGradient id="glowTeal" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowIndigo" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#818cf8" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#818cf8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accentText" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fcd34d"/>
+      <stop offset="1" stop-color="#f59e0b"/>
+    </linearGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.4" cy="1.4" r="1.4" fill="#ffffff" fill-opacity="0.05"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1280" height="340" rx="24" fill="url(#bg)"/>
+  <rect width="1280" height="340" rx="24" fill="url(#dots)"/>
+  <ellipse cx="1150" cy="30" rx="420" ry="300" fill="url(#glowTeal)"/>
+  <ellipse cx="60" cy="340" rx="460" ry="300" fill="url(#glowIndigo)"/>
+
+  <!-- Orbit rings behind the speech bubbles -->
+  <g fill="none" stroke="#ffffff">
+    <circle cx="1050" cy="170" r="140" stroke-opacity="0.07" stroke-width="1.5"/>
+    <circle cx="1050" cy="170" r="185" stroke-opacity="0.045" stroke-width="1.5"/>
+  </g>
+
+  <!-- Typography -->
+  <text x="80" y="92"
+        font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="15" font-weight="600" letter-spacing="5"
+        fill="#a5b4fc">A CURATED AWESOME LIST</text>
+
+  <text x="78" y="172"
+        font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="56" font-weight="700" fill="#ffffff">Awesome <tspan fill="url(#accentText)">Language Learning</tspan></text>
+
+  <text x="80" y="222"
+        font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="21" fill="#cbd5e1">The best resources, apps and tools for every language learner.</text>
+
+  <!-- Accent underline -->
+  <rect x="80" y="248" width="72" height="4" rx="2" fill="#f59e0b"/>
+  <rect x="160" y="248" width="24" height="4" rx="2" fill="#2dd4bf"/>
+
+  <!-- Speech bubbles -->
+  <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+    <!-- Glass bubble: Hola -->
+    <g transform="rotate(-4 980 186)">
+      <rect x="905" y="158" width="150" height="56" rx="16" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.22"/>
+      <path d="M 929 214 L 929 234 L 949 214 Z" fill="#ffffff" fill-opacity="0.08"/>
+      <text x="980" y="194" text-anchor="middle" font-size="24" fill="#e2e8f0">Hola</text>
+    </g>
+
+    <!-- Amber bubble: Hello! -->
+    <g transform="rotate(3 1055 91)">
+      <rect x="960" y="60" width="190" height="62" rx="18" fill="url(#accentText)"/>
+      <path d="M 986 122 L 986 144 L 1008 122 Z" fill="#fbbf24"/>
+      <text x="1055" y="101" text-anchor="middle" font-size="28" font-weight="700" fill="#1e1b4b">Hello!</text>
+    </g>
+
+    <!-- Glass bubble: Bonjour -->
+    <g transform="rotate(2 1080 273)">
+      <rect x="990" y="245" width="180" height="56" rx="16" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.22"/>
+      <path d="M 1140 301 L 1140 321 L 1160 301 Z" fill="#ffffff" fill-opacity="0.08"/>
+      <text x="1080" y="281" text-anchor="middle" font-size="24" fill="#e2e8f0">Bonjour</text>
+    </g>
+  </g>
+</svg>

@@ -1,62 +1,75 @@
-# Awesome Language Learning
+<div align="center">
+  <img src="media/banner.svg" alt="Awesome Language Learning" width="100%">
+  <br>
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+  <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC0--1.0-lightgrey.svg" alt="License: CC0 1.0"></a>
+</div>
 
-A comprehensive, community driven list of awesome websites, apps, resources and tools for language learning.
-"Awesome Language Learning" is your definitive guide to exploring the world of languages, catering to learners at all stages, from absolute beginners to seasoned linguists. Divided by levels, skills, and languages, this list will help you find the best resources for your learning journey.
+<p align="center">
+  A community-driven list of awesome websites, apps, resources and tools for language learning.<br>
+  From absolute beginners to seasoned polyglots, organized by level, skill and language.
+</p>
 
 ---
 
-Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. If you see a resource or tool that is not listed here, please open a new pull request.
+## Contents
 
-Thanks to all contributors, you're awesome and this wouldn't be possible without you!
-
----
-
-## Table of Contents
-- [General](#general-tools)
-- [Blogs and tips](#language-learning-tips)
+- [General Resources](#general-resources)
+  - [General Tools](#general-tools)
+  - [Free Courses & Audio](#free-courses--audio)
+  - [Language Learning Tips](#language-learning-tips)
+  - [Communities](#communities)
 - [Concepts](#concepts)
-- Top 14 languages
-  - [English](#english)
-  - [Spanish](#spanish)
-  - [French](#french)
-  - [Mandarin Chinese](#mandarin-chinese)
-  - [German](#german)
-  - [Japanese](#japanese)
-  - [Russian](#russian)
-  - [Italian](#italian)
-  - [Portuguese](#portuguese)
-  - [Korean](#korean)
-  - [Arabic](#arabic)
-  - [Turkish](#turkish)
-  - [Hindi](#hindi)
-  - [Dutch](#dutch)
+- [How to Learn a Language](#how-to-learn-a-language)
+- [Languages](#languages)
 
 ---
 
-## General Tools
+## General Resources
+
+### General Tools
 
 - [Italki](https://www.italki.com/) - Find language tutors and native speaker partners.
 - [Busuu](https://www.busuu.com/) - Language learning platform with 14 languages.
 - [Memrise](https://www.memrise.com/) - Language learning platform with mnemonics and spaced repetition.
 - [LingQ](https://www.lingq.com/) - Platform for learning through immersion.
-- [Duolingo](https://www.duolingo.com/) - The most popular platform for language learning. With this platform you can start for free learning a new language in an engaging way.
+- [Duolingo](https://www.duolingo.com/) - The most popular platform for language learning. Start learning a new language for free in an engaging, gamified way.
+- [Anki](https://apps.ankiweb.net/) - Free spaced-repetition flashcard app, with shared decks for almost any language.
+- [Forvo](https://forvo.com/) - Pronunciation dictionary with words recorded by native speakers.
+- [Clozemaster](https://www.clozemaster.com/) - Learn vocabulary in context by filling in the missing word in thousands of sentences.
+- [Language Reactor](https://www.languagereactor.com/) - Browser extension that adds dual subtitles and a pop-up dictionary to Netflix and YouTube.
+- [HiNative](https://hinative.com/) - Ask native speakers quick questions about how their language is really used.
+- [LangCorrect](https://langcorrect.com/) - Write in your target language and get free corrections from native speakers.
 
----
+### Free Courses & Audio
 
+- [Language Transfer](https://www.languagetransfer.org/) - Free audio courses that teach you to think in the language instead of memorizing rules.
+- [FSI Language Courses](https://www.fsi-language-courses.org/) - Public domain courses originally developed for US diplomats, covering more than 40 languages.
+- [50Languages](https://www.50languages.com/) - Free beginner courses with native audio in over 50 languages.
+- [Coffee Break Languages](https://coffeebreaklanguages.com/) - Podcast lessons in short episodes that fit into a coffee break.
+- [Easy Languages](https://www.easy-languages.org/) - Street interviews with dual subtitles, recorded in dozens of languages.
 
-## Language Learning Tips
+### Language Learning Tips
 
-- [Steve Kaufmann](https://www.thelinguist.com/) - A person who speaks more than 20 languages helps you learn on your own. Also, he has a platform for languages LingQ.
-- [The Polyglot Dream](http://www.thepolyglotdream.com/) - Blog on language learning strategies.
+- [Steve Kaufmann](https://www.thelinguist.com/) - A polyglot who speaks more than 20 languages shares how to learn on your own. Founder of LingQ.
 - [FluentU Blog](https://www.fluentu.com/blog/) - Tips and hacks for learning languages.
 - [Luca Lampariello](https://www.lucalampariello.com/) - A blog and book on how to learn languages from a polyglot and mentor.
 - [Fluent in 3 Months](https://www.fluentin3months.com/) - Blog by Benny Lewis, a polyglot who shares his language learning experiences.
+- [Actual Fluency](https://actualfluency.com/) - Podcast in which Kris Broholm interviews polyglots and experts about how they learn.
+
+### Communities
+
+- [r/languagelearning](https://www.reddit.com/r/languagelearning/) - The largest online community of language learners, with an extensive FAQ and wiki.
+- [WordReference Forums](https://forum.wordreference.com/) - Long-running forums for nuanced vocabulary and grammar questions in many language pairs.
+- [Conversation Exchange](https://www.conversationexchange.com/) - Find partners for face-to-face, correspondence or chat language exchange.
 
 ---
 
-## Concepts
+## Concepts
 
 - [Language Acquisition](https://en.wikipedia.org/wiki/Language_acquisition) - The process by which humans acquire the capacity to perceive and comprehend language, as well as to produce and use words and sentences to communicate. We recommend the talk from [Stephen Krashen on Language Acquisition](https://www.youtube.com/watch?v=NiTsduRreug).
+- [Comprehensible Input](https://en.wikipedia.org/wiki/Input_hypothesis) - The hypothesis that we acquire language by understanding messages slightly above our current level. For a practical roadmap built on it, see [Refold](https://refold.la/).
 - [Spaced Repetition](https://en.wikipedia.org/wiki/Spaced_repetition) - A learning technique that incorporates increasing intervals of time between subsequent review of previously learned material.
 - [Immersion](https://en.wikipedia.org/wiki/Language_immersion) - A method of teaching a second language in which the learners' second language is the medium of instruction.
 - [Language Exchange](https://en.wikipedia.org/wiki/Language_exchange) - A method of practicing a second language with native speakers of that language.
@@ -64,73 +77,65 @@ Thanks to all contributors, you're awesome and this wouldn't be possible without
 
 ---
 
-## English
+## How to Learn a Language
 
-### Vocabulary
+No single method fits everyone, but successful learners tend to follow the same pattern: plenty of understandable input, a little systematic review, and regular real use. Here is what that looks like in practice.
 
-#### A0-A1 (Beginner)
-- [Duolingo English](https://www.duolingo.com/course/en/us/Learn-English-US) - Interactive vocabulary lessons for beginners.
-- [BBC Learning English](https://www.bbc.co.uk/learningenglish) - English resources, including vocabulary.
+### The four habits that matter
 
-#### A2-B1 (Elementary to Intermediate)
-- [Memrise](https://www.memrise.com/) - English vocabulary courses with mnemonics.
-- [Vocabulary.com](https://www.vocabulary.com/) - Expanding vocabulary through various English levels.
+1. **Get input you can understand.** Reading and listening you mostly understand is where [acquisition](#concepts) happens. Aim for content slightly above your level: graded readers, learner podcasts, videos with subtitles.
+2. **Review vocabulary with [spaced repetition](#concepts).** A handful of words every day, reviewed just before you would forget them, compounds quickly. [Anki](https://apps.ankiweb.net/) or [Memrise](https://www.memrise.com/) handle the scheduling for you.
+3. **Treat grammar as a reference, not a prerequisite.** Look up a rule when you keep bumping into it in your input. Grammar explains the language; it does not replace exposure to it.
+4. **Use the language from week one.** Speak with tutors or [exchange partners](#concepts) on [Italki](https://www.italki.com/), [Tandem](https://www.tandem.net/) or [HelloTalk](https://www.hellotalk.com/), and write short texts for correction on [LangCorrect](https://langcorrect.com/). Output feels uncomfortable, and that is exactly why it works.
 
-#### B2-C2 (Upper Intermediate to Advanced)
-- [Cambridge English](https://www.cambridgeenglish.org/) - Official vocabulary lists for advanced levels.
-- [Anki](https://apps.ankiweb.net/) - Use spaced repetition with advanced English vocabulary decks.
+### A roadmap by stage
 
-### Grammar
+**Beginner (A0-A1).** Learn the sounds and writing system first, since bad pronunciation habits are hard to fix later. Build the 500 most common words and a set of survival phrases. Short daily app sessions are fine at this stage.
 
-#### A0-A1 (Beginner)
-- [English Club Grammar for Beginners](https://www.englishclub.com/grammar/) - Simple grammar lessons and exercises.
+**Intermediate (A2-B1).** This is where most learners quit, because apps stop working and native content is still too hard. Bridge the gap with content made for learners: podcasts, graded readers and YouTube with subtitles. Start regular conversation practice, even if it is painful at first, and keep adding vocabulary from your own reading and listening.
 
-#### A2-B1 (Elementary to Intermediate)
-- [Grammarly Blog](https://www.grammarly.com/blog/) - Tips and explanations on English grammar rules.
+**Advanced (B2-C2).** Live on native content: series, books, podcasts and news. Shadow native audio to polish your rhythm and pronunciation, write longer texts and get them corrected, and work deliberately on your weak spots: specialized vocabulary, fast speech, slang and humor.
 
-#### B2-C2 (Upper Intermediate to Advanced)
-- [Cambridge Dictionary Grammar](https://dictionary.cambridge.org/grammar/british-grammar/) - Advanced grammar explanations.
-- [Advanced English Grammar](https://www.perfect-english-grammar.com/) - Lessons on complex grammar topics.
+### Common mistakes
 
-### Pronunciation
+- Waiting until you feel ready to speak. That day never comes on its own.
+- Studying grammar for months without listening to or reading the language.
+- Collecting apps and courses instead of doing the daily work.
+- Binge studying on weekends instead of short daily sessions. Fifteen focused minutes a day beats three hours on Sunday.
 
-#### A0-A1 (Beginner)
-- [BBC Learning English Pronunciation](https://www.bbc.co.uk/learningenglish/english/features/pronunciation) - Basics of English sounds.
-
-#### A2-B1 (Elementary to Intermediate)
-- [Sounds of Speech](http://soundsofspeech.uiowa.edu/) - Interactive phonetic charts and explanations.
-
-#### B2-C2 (Upper Intermediate to Advanced)
-- [Rachel's English](https://rachelsenglish.com/) - Advanced pronunciation videos and exercises.
-
-### Listening
-
-#### A0-A1 (Beginner)
-- [Voice of America - Learning English](https://learningenglish.voanews.com/) - News stories with simple English.
-
-#### A2-B1 (Elementary to Intermediate)
-- [ESL Cyber Listening Lab](https://www.esl-lab.com/) - Listening quizzes for various topics.
-
-#### B2-C2 (Upper Intermediate to Advanced)
-- [TED Talks](https://www.ted.com/) - Watch and listen to presentations on a wide range of topics. Use subtitles for support.
-
-### Reading & Writing
-
-#### A0-A1 (Beginner)
-- [Oxford Online English](https://www.oxfordonlineenglish.com/free-english-lessons) - Simple English reading passages.
-
-#### A2-B1 (Elementary to Intermediate)
-- [British Council Writing Skills](https://learnenglish.britishcouncil.org/skills/writing) - Improve writing through exercises and samples.
-
-#### B2-C2 (Upper Intermediate to Advanced)
-- [Read Theory](https://readtheory.org/) - Reading comprehension exercises for advanced learners.
-- [The New York Times](https://www.nytimes.com/) - Advanced articles to improve reading skills.
-
-### Practice & Immersion
-
-- [Italki](https://www.italki.com/) - Find English tutors or native speakers for language exchange.
-- [Tandem](https://www.tandem.net/) - Find people from all over the world, make friends and practice your languages for free.
-- [HelloTalk](https://www.hellotalk.com/) - Practice English with native speakers via chat.
+Once you have the habits, pick your language below and dive into the resources for your level.
 
 ---
 
+## Languages
+
+Each language has its own folder with resources organized by skill and CEFR level.
+
+- [Arabic](languages/arabic/)
+- [Dutch](languages/dutch/)
+- [English](languages/english/)
+- [French](languages/french/)
+- [German](languages/german/)
+- [Hindi](languages/hindi/)
+- [Italian](languages/italian/)
+- [Japanese](languages/japanese/)
+- [Korean](languages/korean/)
+- [Mandarin Chinese](languages/mandarin-chinese/)
+- [Portuguese](languages/portuguese/)
+- [Russian](languages/russian/)
+- [Spanish](languages/spanish/)
+- [Turkish](languages/turkish/)
+
+Is your language missing? [Open a pull request](CONTRIBUTING.md) and add it.
+
+---
+
+## Contributing
+
+Sharing, suggestions and contributions are always welcome. If you know a resource that belongs here, please read the [contribution guidelines](CONTRIBUTING.md) and open a pull request.
+
+Thanks to all contributors, you're awesome and this wouldn't be possible without you!
+
+## License
+
+This work is dedicated to the public domain under [CC0 1.0](LICENSE).
