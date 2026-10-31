@@ -41,6 +41,7 @@
 - [Language Reactor](https://www.languagereactor.com/) - Browser extension that adds dual subtitles and a pop-up dictionary to Netflix and YouTube.
 - [HiNative](https://hinative.com/) - Ask native speakers quick questions about how their language is really used.
 - [LangCorrect](https://langcorrect.com/) - Write in your target language and get free corrections from native speakers.
+- [Readuet](https://readuet.com/) - Aligns an ebook with its audiobook, or a podcast with its transcript, so the text is highlighted as the narrator speaks, with tap-to-translate and spaced-repetition review.
 
 ### Free Courses & Audio
 
