@@ -41,6 +41,7 @@
 - [Language Reactor](https://www.languagereactor.com/) - Browser extension that adds dual subtitles and a pop-up dictionary to Netflix and YouTube.
 - [HiNative](https://hinative.com/) - Ask native speakers quick questions about how their language is really used.
 - [LangCorrect](https://langcorrect.com/) - Write in your target language and get free corrections from native speakers.
+- [VocaFlare Clips](https://clips.vocaflare.com/playground) - Search a word and hear it spoken in real YouTube clips, starting at the exact second, with the transcript line shown.
 
 ### Free Courses & Audio
 
