@@ -114,6 +114,7 @@ Each language has its own folder with resources organized by skill and CEFR leve
 - [Arabic](languages/arabic/)
 - [Dutch](languages/dutch/)
 - [English](languages/english/)
+- [Esperanto](languages/esperanto/)
 - [French](languages/french/)
 - [German](languages/german/)
 - [Hindi](languages/hindi/)
