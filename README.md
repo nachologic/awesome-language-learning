@@ -41,6 +41,7 @@
 - [Language Reactor](https://www.languagereactor.com/) - Browser extension that adds dual subtitles and a pop-up dictionary to Netflix and YouTube.
 - [HiNative](https://hinative.com/) - Ask native speakers quick questions about how their language is really used.
 - [LangCorrect](https://langcorrect.com/) - Write in your target language and get free corrections from native speakers.
+- [Fluentoo](https://fluentoo.fr/) - TOEIC preparation in French, with free corrected exercises for all 7 parts and a paid plan.
 
 ### Free Courses & Audio
 
