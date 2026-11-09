@@ -41,6 +41,7 @@
 - [Language Reactor](https://www.languagereactor.com/) - Browser extension that adds dual subtitles and a pop-up dictionary to Netflix and YouTube.
 - [HiNative](https://hinative.com/) - Ask native speakers quick questions about how their language is really used.
 - [LangCorrect](https://langcorrect.com/) - Write in your target language and get free corrections from native speakers.
+- [NativePal](https://nativepal.app/) - AI language app for iOS and Android with alphabet lessons, levelled reading, spaced-repetition vocabulary and pronunciation scoring in 57 languages.
 
 ### Free Courses & Audio
 
